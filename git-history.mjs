@@ -10,10 +10,13 @@ const start = new Date(input);
 const end = new Date();
 
 while (start <= end) {
+  console.log(`Commiting for ${start.toLocaleString()}.`)
   fs.writeFileSync('fake-history.txt', start.toISOString());
   await simpleGit().add('.');
-  await simpleGit().commit('Hmm...')
-  await simpleGit().push()
+  await simpleGit().commit('Hmm...', {
+    '--date': start.toISOString(),
+  })
+  // await simpleGit().push()
   start.setDate(start.getDate() + 1);
 }
 
