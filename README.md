@@ -10,6 +10,6 @@ I'm a full stack developer and systems thinker, stoic, and code optimizer. I've 
 
 ## Small Projects
 1. [Picture in Picture](https://eglove.github.io/picture-in-picture/)
-1. [Person Directory](https://eglove.github.io/aliens/) (React)
-1. [Infinite Scroll](https://eglove.github.io/infinite-scroll/) (JavaScript)
-1. [Quote Generator](https://eglove.github.io/quote-generator/) (JavaScript)
+1. [Person Directory](https://eglove.github.io/aliens/)
+1. [Infinite Scroll](https://eglove.github.io/infinite-scroll/)
+1. [Quote Generator](https://eglove.github.io/quote-generator/)
