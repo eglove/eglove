@@ -5,7 +5,7 @@ I'm a full stack developer and systems thinker, stoic, and code optimizer. I've 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eglove)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Large Projects
-1. [Charity Finder](https://github.com/eglove/Charity-App-React-GraphQL) (React, GraphQl)
+1. [Charity Finder](https://github.com/eglove/Charity-App-React-GraphQL) (React, GraphQL)
 2. [Blog CMS](https://github.com/eglove/PHP-Dynamic-Website) (LAMP, PHP)
 
 ## Small Projects
