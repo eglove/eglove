@@ -9,6 +9,7 @@ I'm a full stack developer and systems thinker, stoic, and code optimizer. I've 
 2. [Blog CMS](https://github.com/eglove/PHP-Dynamic-Website) (LAMP, PHP)
 
 ## Small Projects
+1. [Joke Teller](https://eglove.github.io/joke-teller/)
 1. [Picture in Picture](https://eglove.github.io/picture-in-picture/)
 1. [Person Directory](https://eglove.github.io/aliens/)
 1. [Infinite Scroll](https://eglove.github.io/infinite-scroll/)
