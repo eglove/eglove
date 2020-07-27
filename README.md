@@ -5,14 +5,8 @@ I'm a full stack developer and systems thinker, stoic, and code optimizer. I've 
 <!-- Visitor Badge via https://visitor-badge.laobi.icu/ -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eglove.visitor-badge.issue.1)
 
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 <!-- GitHub Readme Stats from https://github.com/anuraghazra/github-readme-stats -->
 ![My Stats](https://github-readme-stats.vercel.app/api?username=eglove&show_icons=true&theme=default)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eglove&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Large Projects
