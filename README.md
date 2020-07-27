@@ -1,6 +1,7 @@
 # Hello!
 
-I'm a full stack developer and systems thinker, stoic, and code optimizer. I've gone from the LAMP stack with PHP, to Java Algorithms and now to modern JavaScript projects. Connect with me on [Linkedin](https://www.linkedin.com/in/ethan-glover/)!
+I'm a full stack developer and systems thinker, stoic, and code optimizer. I've gone from the LAMP stack with PHP, to Java Algorithms and now to modern JavaScript projects. Connect with me!
+<img src="https://raw.githubusercontent.com/eglove/eglove/eeb591600b73da426bd298d229e2fd96df019488/linkedin-brands.svg" alt="LinkedIn" width="25" height="25">
 
 <!-- Visitor Badge via https://visitor-badge.laobi.icu/ -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eglove.visitor-badge.issue.1)
