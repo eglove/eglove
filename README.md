@@ -1,9 +1,11 @@
-# Hello! 👋
+<img src="https://i.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.webp" alt="Hi!">
 
-I'm a full stack developer and systems thinker, stoic, and code optimizer. I've gone from the LAMP stack with PHP, to Java Algorithms and now to modern JavaScript projects. Connect with me!
-<a href="https://www.linkedin.com/in/ethan-glover/">
-<img src="https://raw.githubusercontent.com/eglove/eglove/eeb591600b73da426bd298d229e2fd96df019488/linkedin-brands.svg" alt="LinkedIn" width="22px" height="22px">
-</a>
+Me:
+* Full stack developer
+* Systems thinker
+* Stoic
+* Code optimizer
+* Connect with me! <a href="https://www.linkedin.com/in/ethan-glover/"><img src="https://raw.githubusercontent.com/eglove/eglove/eeb591600b73da426bd298d229e2fd96df019488/linkedin-brands.svg" alt="LinkedIn" width="22px" height="22px"></a>
 
 <!-- Visitor Badge via https://visitor-badge.laobi.icu/ -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eglove.visitor-badge.issue.1)
