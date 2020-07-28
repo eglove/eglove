@@ -13,6 +13,9 @@ Me:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=eglove&show_icons=true&theme=default&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eglove&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 |Large Projects||
 |---|---|
 |[Charity Finder](https://github.com/eglove/Charity-App-React-GraphQL)|[Blog CMS](https://github.com/eglove/PHP-Dynamic-Website)|
