@@ -14,14 +14,15 @@ Me:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=eglove&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eglove&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-|Large Projects|Small Projects|
+|Large Projects||
 |---|---|
-|[Charity Finder](https://github.com/eglove/Charity-App-React-GraphQL)|[Light/Dark Mode](https://eglove.github.io/light-dark-mode/)|
-|[Blog CMS](https://github.com/eglove/PHP-Dynamic-Website)|[Joke Teller](https://eglove.github.io/joke-teller/)|
-||[Picture in Picture](https://eglove.github.io/picture-in-picture/)|
-||[Person Directory](https://eglove.github.io/aliens/)|
-||[Infinite Scroll](https://eglove.github.io/infinite-scroll/)|
-||[Quote Generator](https://eglove.github.io/quote-generator/)|
+|[Charity Finder](https://github.com/eglove/Charity-App-React-GraphQL)|[Blog CMS](https://github.com/eglove/PHP-Dynamic-Website)|
+
+|Small Projects||
+|---|---|
+|[Light/Dark Mode](https://eglove.github.io/light-dark-mode/)|[Joke Teller](https://eglove.github.io/joke-teller/)|
+|[Picture in Picture](https://eglove.github.io/picture-in-picture/)|[Person Directory](https://eglove.github.io/aliens/)|
+|[Infinite Scroll](https://eglove.github.io/infinite-scroll/)|[Quote Generator](https://eglove.github.io/quote-generator/)|
 
 <hr>
 <div>
