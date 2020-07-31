@@ -7,7 +7,7 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=eglove&show_icons=true&theme=default&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eglove&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Weekly Language Stats
+### This Weeks IntelliJ Stats
 <!--START_SECTION:waka-->
 ```text
 Other        4 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   43.38 % 
