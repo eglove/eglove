@@ -24,11 +24,11 @@ HTML         33 mins         █░░░░░░░░░░░░░░░░
 
 |Small Projects||
 |---|---|
-|[Countdown](https://eglove.github.io/countdown/)|[Music Player](https://eglove.github.io/music-player/)|
-|[Animated Navigation](https://eglove.github.io/navigation/)|[Light/Dark Mode](https://eglove.github.io/light-dark-mode/)|
-|[Joke Teller](https://eglove.github.io/joke-teller/)|[Picture in Picture](https://eglove.github.io/picture-in-picture/)|
-|[Person Directory](https://eglove.github.io/aliens/)|[Infinite Scroll](https://eglove.github.io/infinite-scroll/)|
-|[Quote Generator](https://eglove.github.io/quote-generator/)||
+|[Bookmarks](https://eglove.github.io/bookmarks/)|[Countdown](https://eglove.github.io/countdown/)|
+|[Music Player](https://eglove.github.io/music-player/)|[Animated Navigation](https://eglove.github.io/navigation/)|
+|[Light/Dark Mode](https://eglove.github.io/light-dark-mode/)|[Joke Teller](https://eglove.github.io/joke-teller/)|
+|[Picture in Picture](https://eglove.github.io/picture-in-picture/)|[Person Directory](https://eglove.github.io/aliens/)|
+|[Infinite Scroll](https://eglove.github.io/infinite-scroll/)|[Quote Generator](https://eglove.github.io/quote-generator/)|
 
 <hr>
 <div>
