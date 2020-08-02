@@ -18,9 +18,15 @@ HTML         33 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-|Large Projects||
-|---|---|
-|[Charity Finder](https://github.com/eglove/Charity-App-React-GraphQL)|[Blog CMS](https://github.com/eglove/PHP-Dynamic-Website)|
+<table>
+  <tr>
+    <th colspan="2">Large Projects</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/eglove/Charity-App-React-GraphQL">Charity Finder</a></td>
+    <td><a href="https://github.com/eglove/PHP-Dynamic-Website">Blog CMS</a></td>
+  </tr>
+</table>
 
 <table>
   <tr>
