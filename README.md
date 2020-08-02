@@ -22,13 +22,31 @@ HTML         33 mins         █░░░░░░░░░░░░░░░░
 |---|---|
 |[Charity Finder](https://github.com/eglove/Charity-App-React-GraphQL)|[Blog CMS](https://github.com/eglove/PHP-Dynamic-Website)|
 
-|Small Projects||
-|---|---|
-|[Bookmarks](https://eglove.github.io/bookmarks/)|[Countdown](https://eglove.github.io/countdown/)|
-|[Music Player](https://eglove.github.io/music-player/)|[Animated Navigation](https://eglove.github.io/navigation/)|
-|[Light/Dark Mode](https://eglove.github.io/light-dark-mode/)|[Joke Teller](https://eglove.github.io/joke-teller/)|
-|[Picture in Picture](https://eglove.github.io/picture-in-picture/)|[Person Directory](https://eglove.github.io/aliens/)|
-|[Infinite Scroll](https://eglove.github.io/infinite-scroll/)|[Quote Generator](https://eglove.github.io/quote-generator/)|
+<table>
+  <tr>
+    <th colspan="2">10 Small JS Projects</th>
+  </tr>
+  <tr>
+    <td><a href="https://eglove.github.io/bookmarks/">Bookmarks</a></td>
+    <td><a href="https://eglove.github.io/countdown/">Countdown</a></td>
+  <tr>
+  <tr>
+    <td><a href="https://eglove.github.io/music-player/">Music Player</a></td>
+    <td><a href="https://eglove.github.io/navigation/">Animated Navigation</a></td>
+  <tr>
+  <tr>
+    <td><a href="https://eglove.github.io/light-dark-mode/">Light/Dark Mode</a></td>
+    <td><a href="https://eglove.github.io/joke-teller/">Joke Teller</a></td>
+  <tr>
+  <tr>
+    <td><a href="https://eglove.github.io/picture-in-picture/">Picture in Picture</a></td>
+    <td><a href="https://eglove.github.io/aliens/">Person Directory</a></td>
+  <tr>
+  <tr>
+    <td><a href="https://eglove.github.io/infinite-scroll/">Infinite Scroll</a></td>
+    <td><a href="https://eglove.github.io/quote-generator/">Quote Generator</a></td>
+  <tr>
+</table>
 
 <hr>
 <div>
