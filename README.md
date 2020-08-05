@@ -7,7 +7,7 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=eglove&show_icons=true&theme=default&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eglove&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### This Weeks IntelliJ Stats
+### Last 7 Days In IntelliJ
 <!--START_SECTION:waka-->
 ```text
 CSS          6 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   26.45 % 
