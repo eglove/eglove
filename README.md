@@ -10,11 +10,11 @@
 ### This Weeks IntelliJ Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   30.99 % 
-Other        4 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   22.81 % 
-CSS          3 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-XML          2 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-HTML         1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+CSS          6 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   26.45 % 
+JavaScript   5 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+XML          4 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Other        4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.08 % 
+HTML         1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
 ```
 <!--END_SECTION:waka-->
 
