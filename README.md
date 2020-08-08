@@ -33,7 +33,7 @@ Git Config   25 mins         ░░░░░░░░░░░░░░░░░
     <th colspan="2">10 Small JS Projects</th>
   </tr>
   <tr>
-    <td><a href="https://eglove.github.io/nasa-apod/">Form Validation</a></td>
+    <td><a href="https://eglove.github.io/nasa-apod/">NASA APOD</a></td>
     <td><a href="https://eglove.github.io/form-validation/">Form Validation</a></td>
   <tr>
   <tr>
