@@ -10,11 +10,11 @@
 ### Last 7 Days In IntelliJ
 <!--START_SECTION:waka-->
 ```text
-CSS          15 hrs 12 mins  ████████████░░░░░░░░░░░░░   49.26 % 
-JavaScript   7 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   23.08 % 
-XML          4 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-HTML         2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Git Config   25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+CSS          16 hrs          ██████████░░░░░░░░░░░░░░░   43.01 % 
+JavaScript   10 hrs 35 mins  ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+XML          4 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+HTML         4 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Git Config   40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 <!--END_SECTION:waka-->
 
