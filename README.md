@@ -55,10 +55,16 @@ Other        17 mins         ░░░░░░░░░░░░░░░░░
 </table>
 
 <hr>
-<div>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react">
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="graphql">
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="graphql">
-</div>
+<table>
+  <tr>
+    <th colspan="2">Completed Courses</th>
+  </tr>
+  <tr>
+    <td><a href="https://courses.wesbos.com/account/certificate/5e0449f1154f52315447fea2">Advanced React and GraphQL</a></td>
+    <td>More to be added...</td>
+  </tr>
+  <tr>
+    <td><a href="https://courses.wesbos.com/account/certificate/5e47fe70d9cc83646520141a">Learn Node</a></td>
+    <td><a href="https://courses.wesbos.com/account/certificate/5e236b35da680247de2eca9e">Beginner JavaScript</a></td>
+  </tr>
+</table>
