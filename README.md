@@ -55,8 +55,11 @@ Other        17 mins         ░░░░░░░░░░░░░░░░░
 </table>
 
 <hr>
-<p>Khan Academy Points/Badges (8/12/2020)</p>
-<img src="./images/khan-academy.png" alt="3,783,279 points"/>
+
+### Khan Academy Points/Badges (8/12/2020)
+
+<img src="https://raw.githubusercontent.com/eglove/eglove/master/images/khan-academy.png" alt="3,783,279 points"/>
+
 <table>
   <tr>
     <th colspan="2">Completed Courses</th>
