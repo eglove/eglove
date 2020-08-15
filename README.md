@@ -33,24 +33,24 @@ Markdown     26 mins         ░░░░░░░░░░░░░░░░░
     <th colspan="2">10 Small JS Projects</th>
   </tr>
   <tr>
+    <td><a href="https://eglove.github.io/kanban-board/">Kanban Board</a></td>
     <td><a href="https://eglove.github.io/math-game/">Math Game</a></td>
+  <tr>
+  <tr>
     <td><a href="https://eglove.github.io/nasa-apod/">NASA APOD</a></td>
-  <tr>
-  <tr>
     <td><a href="https://eglove.github.io/form-validation/">Form Validation</a></td>
+  <tr>
+  <tr>
     <td><a href="https://eglove.github.io/video-player/">Video Player</a></td>
-  <tr>
-  <tr>
     <td><a href="https://eglove.github.io/bookmarks/">Bookmarks</a></td>
+  <tr>
+  <tr>
     <td><a href="https://eglove.github.io/countdown/">Countdown</a></td>
-  <tr>
-  <tr>
     <td><a href="https://eglove.github.io/music-player/">Music Player</a></td>
+  <tr>
+  <tr>
     <td><a href="https://eglove.github.io/navigation/">Animated Navigation</a></td>
-  <tr>
-  <tr>
     <td><a href="https://eglove.github.io/light-dark-mode/">Light/Dark Mode</a></td>
-    <td><a href="https://eglove.github.io/joke-teller/">Joke Teller</a></td>
   <tr>
 </table>
 
