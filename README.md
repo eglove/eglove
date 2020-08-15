@@ -60,6 +60,6 @@ Markdown     26 mins         ░░░░░░░░░░░░░░░░░
 
 Courses Complete: 36
 
-Khan Academy Energy Points: 3,783,279
+[Khan Academy Energy Points](https://www.khanacademy.org/profile/kaid_951388612079925667979928): 3,783,279
 
 
