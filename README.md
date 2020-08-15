@@ -56,7 +56,7 @@ Markdown     26 mins         ░░░░░░░░░░░░░░░░░
 
 <hr>
 
-### Other (Updated: 8/15/2020)
+#### Other (Updated: 8/15/2020)
 
 Courses Complete: 36
 
