@@ -10,11 +10,11 @@
 ### Last 7 Days In IntelliJ
 <!--START_SECTION:waka-->
 ```text
-CSS          14 hrs 16 mins  ███████████░░░░░░░░░░░░░░   46.70 % 
-JavaScript   8 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-XML          4 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-HTML         2 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Other        17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+XML          11 hrs 35 mins  ███████████▒░░░░░░░░░░░░░   45.38 % 
+CSS          4 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.03 % 
+JavaScript   4 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Velocity     4 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -42,104 +42,33 @@ Other        17 mins         ░░░░░░░░░░░░░░░░░
     <th colspan="2">10 Small JS Projects</th>
   </tr>
   <tr>
+    <td><a href="https://eglove.github.io/ZTM-Roadmap/">ZTM Roadmap</a></td>
+    <td><a href="https://eglove.github.io/calculator/">Calculator</a></td>
+  <tr>
+  <tr>
+    <td><a href="https://eglove.github.io/kanban-board/">Kanban Board</a></td>
     <td><a href="https://eglove.github.io/math-game/">Math Game</a></td>
+  <tr>
+  <tr>
     <td><a href="https://eglove.github.io/nasa-apod/">NASA APOD</a></td>
-  <tr>
-  <tr>
     <td><a href="https://eglove.github.io/form-validation/">Form Validation</a></td>
+  <tr>
+  <tr>
     <td><a href="https://eglove.github.io/video-player/">Video Player</a></td>
-  <tr>
-  <tr>
     <td><a href="https://eglove.github.io/bookmarks/">Bookmarks</a></td>
+  <tr>
+  <tr>
     <td><a href="https://eglove.github.io/countdown/">Countdown</a></td>
-  <tr>
-  <tr>
     <td><a href="https://eglove.github.io/music-player/">Music Player</a></td>
-    <td><a href="https://eglove.github.io/navigation/">Animated Navigation</a></td>
-  <tr>
-  <tr>
-    <td><a href="https://eglove.github.io/light-dark-mode/">Light/Dark Mode</a></td>
-    <td><a href="https://eglove.github.io/joke-teller/">Joke Teller</a></td>
   <tr>
 </table>
 
 <hr>
-<p>Khan Academy Points/Badges (8/12/2020)</p>
-<img src="./images/khan-academy.png" alt="3,783,279 points"/>
-<table>
-  <tr>
-    <th colspan="2">Completed Courses</th>
-  </tr>
-  <tr>
-    <td><a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts">JavaScript: The Advanced Concepts</a></td>
-    <td><a href="https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery">The Complete Web Developer in 2020</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://courses.wesbos.com/account/certificate/5e0449f1154f52315447fea2">Advanced React and GraphQL</a></td>
-    <td><a href="https://academy.zerotomastery.io/p/learning-to-learn-efficient-learning-zero-to-mastery-blueprint">Learning to Learn [Efficient Learning]</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://courses.wesbos.com/account/certificate/5e47fe70d9cc83646520141a">Learn Node</a></td>
-    <td><a href="https://courses.wesbos.com/account/certificate/5e236b35da680247de2eca9e">Beginner JavaScript</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring">Building Full Stack Apps with React and Spring</a></td>
-    <td><a href="https://www.linkedin.com/learning/learning-java-by-example">Learning Java by Example</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.linkedin.com/learning/nail-your-java-interview">Nail Your Java Interview</a></td>
-    <td><a href="https://www.linkedin.com/learning/productivity-tips-finding-your-rhythm">Productivity Tips: Finding Your Rhythm</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.linkedin.com/learning/java-essential-training-syntax-and-structure">Java Essential Training: Syntax and Structure</a></td>
-    <td><a href="https://www.linkedin.com/learning/learning-java-2018">Learning Java</a></td>
-  </tr>
-  <tr>    
-    <td><a href="https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3">Programming Foundations: Object-Oriented Design</a></td>
-    <td><a href="https://www.linkedin.com/learning/programming-foundations-algorithms">Programming Foundations: Algorithms</a></td>
-  </tr>
-  <tr>    
-    <td><a href="https://www.linkedin.com/learning/learning-junit-5">Learning JUnit 5</a></td>
-    <td><a href="https://www.linkedin.com/learning/learning-react-js-2019">Learning React.js</a></td>
-  </tr>
-  <tr>    
-    <td><a href="https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-2">Parallel and Concurrent Programming with Java 2</a></td>
-    <td><a href="https://www.linkedin.com/learning/java-for-data-scientists-essential-training">Java for Data Scientists Essential Training</a></td>
-  </tr>
-  <tr>    
-    <td><a href="https://www.linkedin.com/learning/learning-jdbc">Learning JDBC</a></td>
-    <td><a href="https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1">Parallel and Concurrent Programming with Java 1</a></td>
-  </tr>
-  <tr>    
-    <td><a href="https://www.linkedin.com/learning/advanced-java-programming-2">Advanced Java Programming</a></td>
-    <td><a href="https://www.linkedin.com/learning/learning-java-lambda-expressions">Learning Java Lambda Expressions</a></td>
-  </tr>
-  <tr>    
-    <td><a href="https://www.linkedin.com/learning/javascript-essential-training-3">JavaScript Essential Training</a></td>
-    <td><a href="https://www.linkedin.com/learning/learning-java-9-modularity">Learning Java 9 Modularity</a></td>
-  </tr>
-  <tr>    
-    <td><a href="https://www.linkedin.com/learning/java-design-patterns-creational">Java Design Patterns: Creational</a></td>
-    <td><a href="https://www.linkedin.com/learning/code-clinic-java-2">Code Clinic: Java</a></td>
-  </tr>
-  <tr>    
-    <td><a href="https://www.linkedin.com/learning/java-essential-training-objects-and-apis">Java Essential Training: Objects and APIs</a></td>
-    <td><a href="https://www.udemy.com/share/1020piCUASdlk=/">Go Java Full Stack with Spring Boot and React</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.udemy.com/share/103rb8CUASdlk=/">The Powershell 6 Scripting Crash Course</a></td>
-    <td>Algorithm Design and Analysis</td>
-  </tr>
-  <tr>
-    <td>C & Unix Systems Programming</td>
-    <td>Computer Architecture</td>
-  </tr>
-  <tr>
-    <td>Computer Programming I</td>
-    <td>Computer Programming II</td>
-  </tr>
-  <tr>
-    <td>Data Structures</td>
-    <td>Intro to Computer Organization</td>
-  </tr>
-</table>
+
+#### Other (Updated: 8/30/2020)
+
+Courses Complete: 38
+
+[Khan Academy Energy Points](https://www.khanacademy.org/profile/kaid_951388612079925667979928): 3,783,279
+
+
