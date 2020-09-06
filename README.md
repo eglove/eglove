@@ -29,6 +29,15 @@ Other        17 mins         ░░░░░░░░░░░░░░░░░
 </table>
 
 <table>
+    <tr>
+        <th colspan="2">Small React Projects</th>
+    </tr>
+    <tr>
+        <td><a href="https://eglove.github.io/robofriends/">RoboFriends</a></td>
+    </tr>
+</table>
+
+<table>
   <tr>
     <th colspan="2">10 Small JS Projects</th>
   </tr>
