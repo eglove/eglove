@@ -38,6 +38,15 @@ Markdown     4 mins          ░░░░░░░░░░░░░░░░░
 </table>
 
 <table>
+    <tr>
+        <th colspan="2">Small Spring Projects</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/eglove/Spring-Boot-CRUD-API">Spring Boot CRUD API</a></td>
+    </tr>
+</table>
+
+<table>
   <tr>
     <th colspan="2">10 Small JS Projects</th>
   </tr>
