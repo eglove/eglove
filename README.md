@@ -74,9 +74,9 @@ JavaScript   5 hrs 42 mins   ██▓░░░░░░░░░░░░░░
 
 <hr>
 
-#### Other (Updated: 8/30/2020)
+#### Other (Updated: 9/21/2020)
 
-Courses Complete: 38
+Courses Complete: 39
 
 [Khan Academy Energy Points](https://www.khanacademy.org/profile/kaid_951388612079925667979928): 3,783,279
 
