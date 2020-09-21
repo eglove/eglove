@@ -33,7 +33,7 @@ JSON         5 hrs 15 mins   ██▓░░░░░░░░░░░░░░
         <th colspan="2">Small React Projects</th>
     </tr>
     <tr>
-        <td><a href="https://eglove.github.io/robofriends/">RoboFriends</a></td>
+        <td><a href="https://github.com/eglove/robofriends">RoboFriends</a></td>
     </tr>
 </table>
 
