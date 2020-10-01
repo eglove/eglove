@@ -26,7 +26,7 @@
 
 [Stylelint](https://stylelint.io/) - CSS Linting
 
-[Terminus](https://eugeny.github.io/terminus/) - Windows terminal emdulator.
+[Terminus](https://eugeny.github.io/terminus/) - Windows terminal emulator.
 
 ## Packages
 
