@@ -4,7 +4,7 @@
 
 [content-visibility](https://caniuse.com/css-content-visibility) - Native CSS feature for on demand DOM rendering.
 
-[Dynamic Imports](https://caniuse.com/es6-module-dynamic-import) - ES2020 feature to use async/await module lodaing.
+[Dynamic Imports](https://caniuse.com/es6-module-dynamic-import) - ES2020 feature to use async/await module loading.
 
 ## Tools
 
