@@ -76,12 +76,4 @@ CSS          1 hr 46 mins    █░░░░░░░░░░░░░░░░
   <tr>
 </table>
 
-<hr>
-
-#### Other (Updated: 9/21/2020)
-
-Courses Complete: 38
-
-[Khan Academy Energy Points](https://www.khanacademy.org/profile/kaid_951388612079925667979928): 3,783,279
-
 
