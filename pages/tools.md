@@ -40,7 +40,7 @@
 
 ## Software
 
-[Greenshot](https://getgreenshot.org/screenshots/) - Quick screenshots with built in editor.
+[Greenshot](https://getgreenshot.org/) - Quick screenshots with built in editor.
 
 [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) - The only code editor that matters.
 
