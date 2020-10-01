@@ -10,8 +10,6 @@
 
 [Chocolatey](https://chocolatey.org/) - Windows package manager.
 
-[IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) - The only editor that matters.
-
 [Mrm](https://mrm.js.org/) - Project config automation.
 
 [No-Sweat™](https://github.com/wesbos/eslint-config-wesbos) - Eslint and Prettier Configuration by Wes Bos
@@ -26,8 +24,6 @@
 
 [Stylelint](https://stylelint.io/) - CSS Linting
 
-[Terminus](https://eugeny.github.io/terminus/) - Windows terminal emulator.
-
 ## Packages
 
 [Compression](https://github.com/expressjs/compression) - GZip compression for Node.
@@ -41,6 +37,16 @@
 [Can I Use](https://caniuse.com/) - Browser compatibility lookup.
 
 [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - Because you don't.
+
+## Software
+
+[Greenshot](https://getgreenshot.org/screenshots/) - Quick screenshots with built in editor.
+
+[IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) - The only code editor that matters.
+
+[Search Everything](https://www.voidtools.com/) - File searching powered by cached memory locations/indexing.
+
+[Terminus](https://eugeny.github.io/terminus/) - Windows terminal emulator.
 
 <hr>
 
