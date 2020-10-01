@@ -8,6 +8,10 @@
 
 ## Tools
 
+[Chocolatey](https://chocolatey.org/) - Windows package manager.
+
+[IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) - The only editor that matters.
+
 [Mrm](https://mrm.js.org/) - Project config automation.
 
 [No-Sweat™](https://github.com/wesbos/eslint-config-wesbos) - Eslint and Prettier Configuration by Wes Bos
@@ -21,6 +25,8 @@
 [Styled Components](https://styled-components.com/) - Easy custom, scoped HTML elements for CSS.
 
 [Stylelint](https://stylelint.io/) - CSS Linting
+
+[Terminus](https://eugeny.github.io/terminus/) - Windows terminal emdulator.
 
 ## Packages
 
