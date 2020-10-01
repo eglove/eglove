@@ -12,7 +12,7 @@
 
 [Skypack](https://www.skypack.dev/) - CDN based dependency management.
 
-[Styled Components](https://styled-components.com/) - Easy custom, scoped HTML elements.
+[Styled Components](https://styled-components.com/) - Easy custom, scoped HTML elements for CSS.
 
 [Stylelint](https://stylelint.io/) - CSS Linting
 
