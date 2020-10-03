@@ -6,7 +6,7 @@
 
 [Dynamic Imports](https://caniuse.com/es6-module-dynamic-import) - ES2020 feature to use async/await module loading.
 
-[Shadow DOM](https://caniuse.com/shadowdomv1) - Vanilla HTML/JS method of building custom components with lifecycle hooks.
+[Web Components](https://developers.google.com/web/fundamentals/web-components) - Custom Elements and Shadow DOM.
 
 ## Tools
 
