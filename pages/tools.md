@@ -6,6 +6,8 @@
 
 [Dynamic Imports](https://caniuse.com/es6-module-dynamic-import) - ES2020 feature to use async/await module loading.
 
+[Shadow DOM](https://caniuse.com/shadowdomv1) - Vanilla HTML/JS method of building custom components with lifecycle hooks.
+
 ## Tools
 
 [Chocolatey](https://chocolatey.org/) - Windows package manager.
@@ -20,8 +22,6 @@
 
 [Skypack](https://www.skypack.dev/) - CDN based dependency management.
 
-[Styled Components](https://styled-components.com/) - Easy custom, scoped HTML elements for CSS.
-
 [Stylelint](https://stylelint.io/) - CSS Linting
 
 ## Packages
@@ -31,6 +31,8 @@
 [Isomorphic Unfetch](https://www.skypack.dev/npm/isomorphic-unfetch) - Fetches with the client on first load. Server side fetches on following loads.
 
 [Morgan](https://github.com/expressjs/morgan) - HTTP request logger for node.
+
+[Styled Components](https://styled-components.com/) - Easy custom, scoped HTML elements for CSS.
 
 ## Websites
 
