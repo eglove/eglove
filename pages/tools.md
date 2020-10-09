@@ -30,6 +30,8 @@
 
 [Isomorphic Unfetch](https://www.skypack.dev/npm/isomorphic-unfetch) - Fetches with the client on first load. Server side fetches on following loads.
 
+[JSON Server](https://github.com/typicode/json-server) - Generate a simple Rest API with a JSON file.
+
 [Morgan](https://github.com/expressjs/morgan) - HTTP request logger for node.
 
 [Styled Components](https://styled-components.com/) - Easy custom, scoped HTML elements for CSS.
