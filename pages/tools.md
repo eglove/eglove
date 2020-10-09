@@ -28,6 +28,8 @@
 
 [Compression](https://github.com/expressjs/compression) - GZip compression for Node.
 
+[Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) - The better way to run multiple package commands.
+
 [Isomorphic Unfetch](https://www.skypack.dev/npm/isomorphic-unfetch) - Fetches with the client on first load. Server side fetches on following loads.
 
 [JSON Server](https://github.com/typicode/json-server) - Generate a simple Rest API with a JSON file.
