@@ -4,8 +4,6 @@
 
 ***Connect with me!*** <a href="https://www.linkedin.com/in/ethan-glover/"><img src="https://raw.githubusercontent.com/eglove/eglove/eeb591600b73da426bd298d229e2fd96df019488/linkedin-brands.svg" alt="LinkedIn" width="20px" height="20px"></a> <a href="mailto:hello@ethang.email"><img src="https://raw.githubusercontent.com/eglove/eglove/47aceecf4819797d993f5facc7764cb99d0ab039/envelope-solid.svg" alt="Email" width="20px" height="20px"></a>
 
-# [Portfolio (WIP)](https://portfolio-mauve-nine.vercel.app/)
-
 ![My Stats](https://github-readme-stats.vercel.app/api?username=eglove&show_icons=true&theme=default&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eglove&layout=compact)
 
