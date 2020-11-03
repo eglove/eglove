@@ -15,10 +15,10 @@
 ### Last 7 Days In IntelliJ
 <!--START_SECTION:waka-->
 ```text
-JavaScript   17 hrs 30 mins  ███████████░░░░░░░░░░░░░░   44.55 % 
-Java         8 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.55 % 
-Velocity     4 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-JSON         2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Properties   1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JavaScript   8 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.84 % 
+Java         8 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+Velocity     4 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Properties   1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+XML          1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 ```
 <!--END_SECTION:waka-->
