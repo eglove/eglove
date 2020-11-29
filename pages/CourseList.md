@@ -17,11 +17,23 @@ If I haven't already completed it, it's on my list of courses to take next.
     </tr>
     <tr>
         <td>:white_check_mark:</td>
+        <td><a href="https://learnredux.com/">WB: Learn Redux</a></td>
+    </tr>
+    <tr>
+        <td>:white_check_mark:</td>
         <td><a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts">ZTM: JavaScript: The Advanced Concepts</a></td>
     </tr>
     <tr>
         <td>:white_check_mark:</td>
         <td><a href="https://academy.zerotomastery.io/p/complete-web-and-mobile-designer">ZTM: Complete Web & Mobile Designer in 2021</a></td>
+    </tr>   
+    <tr>
+        <td>:white_check_mark:</td>
+        <td><a href="https://flexbox.io/">WB: What The Flexbox?</a></td>
+    </tr>
+    <tr>
+        <td>:white_check_mark:</td>
+        <td><a href="https://cssgrid.io/">WB: CSS Grid</a></td>
     </tr>
     <tr>
         <td>:white_check_mark:</td>
