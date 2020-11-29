@@ -6,7 +6,7 @@
 
 # [EthanG.dev](https://ethang.dev/)
 
-[Recommended courses for learning development.](./pages/CourseList.md)
+### [Recommended courses for learning development.](./pages/CourseList.md)
 
 <hr>
 
