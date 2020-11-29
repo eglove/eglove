@@ -1,10 +1,10 @@
 # Course List
 
 My recommended list of courses to take, in order, to learn development.
-Starting with web development and moving into data/machine learning.
+Starting with web development and moving into data and machine learning.
 If I haven't already completed it, it's on my list of courses to take next.
 
-:white_check_mark: - Course I've completed and recommend.
+:white_check_mark: - Courses I've completed and recommend.
 
 <table>
     <tr>
