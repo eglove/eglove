@@ -9,6 +9,6 @@ If I haven't already completed, it's on my list of course to take next.
 <table>
     <tr>
         <td>:white_check_mark:</td>
-        <td>[Learning to Learn](https://academy.zerotomastery.io/courses/enrolled/776308)</td>
+        <td><a href="https://academy.zerotomastery.io/courses/enrolled/776308">Learning to Learn</a></td>
     </tr>
 </table>
