@@ -48,8 +48,8 @@ If I haven't already completed it, it's on my list of courses to take next.
         <td><a href="https://advancedreact.com/">WB: Fullstack Advanced React & GraphQL</a></td>
     </tr>
     <tr>
-        <td>(Not Yet Released)</td>
-        <td><a href="">ZTM: Complete React Native</a></td>
+        <td></td>
+        <td>ZTM: Complete React Native</td>
     </tr>
     <tr>
         <td>:white_check_mark:</td>
