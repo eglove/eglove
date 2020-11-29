@@ -21,6 +21,10 @@ If I haven't already completed it, it's on my list of courses to take next.
     </tr>
     <tr>
         <td>:white_check_mark:</td>
+        <td><a href="https://learnnode.com/">WB: Learn Node</a></td>
+    </tr>
+    <tr>
+        <td>:white_check_mark:</td>
         <td><a href="https://academy.zerotomastery.io/p/advanced-javascript-concepts">ZTM: JavaScript: The Advanced Concepts</a></td>
     </tr>
     <tr>
