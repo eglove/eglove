@@ -81,6 +81,6 @@ If I haven't already completed it, it's on my list of courses to take next.
     </tr>
 </table>
 
-Site I will be looking at in the future.
-* [Datacamp](https://www.datacamp.com/)
+Sites I will be looking at in the future.
+* [DataCamp](https://www.datacamp.com/)
 * [RealToughCandy](https://realtoughcandy.io/)

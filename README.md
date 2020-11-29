@@ -6,6 +6,8 @@
 
 # [EthanG.dev](https://ethang.dev/)
 
+[Recommended courses for learning development.](./pages/CourseList.md)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/386a0047-e6d7-4b02-af54-535d4fdd1866/deploy-status)](https://app.netlify.com/sites/focused-elion-be8588/deploys)
 
 <hr>
