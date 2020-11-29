@@ -82,5 +82,6 @@ If I haven't already completed it, it's on my list of courses to take next.
 </table>
 
 Sites I will be looking at in the future.
+* [AlgoExpert](https://www.algoexpert.io/)
 * [DataCamp](https://www.datacamp.com/)
 * [RealToughCandy](https://realtoughcandy.io/)
