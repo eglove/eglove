@@ -48,7 +48,7 @@ If I haven't already completed it, it's on my list of courses to take next.
         <td><a href="https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms">ZTM: Data Structures + Algorithms</a></td>
     </tr>
     <tr>
-        <td>:white_check_mark:</td>
+        <td></td>
         <td><a href="https://www.algoexpert.io/">AlgoExpert</a></td>
     </tr>
     <tr>
