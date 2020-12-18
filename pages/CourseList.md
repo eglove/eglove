@@ -49,7 +49,7 @@ If I haven't already completed it, it's on my list of courses to take next.
     </tr>
     <tr>
         <td>:white_check_mark:</td>
-        <td><a href="https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep">ZTM: Big Tech (FAANG) Interviews</a></td>
+        <td><a href="https://www.algoexpert.io/">AlgoExpert</a></td>
     </tr>
     <tr>
         <td>:white_check_mark:</td>
@@ -82,6 +82,5 @@ If I haven't already completed it, it's on my list of courses to take next.
 </table>
 
 Sites I will be looking at in the future.
-* [AlgoExpert](https://www.algoexpert.io/)
 * [DataCamp](https://www.datacamp.com/)
 * [RealToughCandy](https://realtoughcandy.io/)
