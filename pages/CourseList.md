@@ -49,7 +49,7 @@ If I haven't already completed it, it's on my list of courses to take next.
     </tr>
     <tr>
         <td></td>
-        <td><a href="https://www.algoexpert.io/">AlgoExpert</a></td>
+        <td><a href="https://www.algoexpert.io/">AlgoExpert/SystemsExpert</a></td>
     </tr>
     <tr>
         <td>:white_check_mark:</td>
