@@ -77,7 +77,7 @@ If I haven't already completed it, it's on my list of courses to take next.
     </tr>
     <tr>
         <td></td>
-        <td><a href="">ZTM: Complete Machine Learning and Data Science</a></td>
+        <td><a href="https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery">ZTM: Complete Machine Learning and Data Science</a></td>
     </tr>
 </table>
 
