@@ -11,14 +11,3 @@
 <hr>
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=eglove&show_icons=true&theme=default&count_private=true)
-
-### Last 7 Days In IntelliJ
-<!--START_SECTION:waka-->
-```text
-Vue.js       1 hr 35 mins    █████████████░░░░░░░░░░░░   52.35 % 
-JSON         33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.19 % 
-XML          21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Java         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-JavaScript   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-```
-<!--END_SECTION:waka-->
