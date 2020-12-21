@@ -48,10 +48,6 @@ If I haven't already completed it, it's on my list of courses to take next.
         <td><a href="https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms">ZTM: Data Structures + Algorithms</a></td>
     </tr>
     <tr>
-        <td></td>
-        <td><a href="https://www.algoexpert.io/">AlgoExpert/SystemsExpert</a></td>
-    </tr>
-    <tr>
         <td>:white_check_mark:</td>
         <td><a href="https://academy.zerotomastery.io/p/complete-react-developer-redux-hooks-graphql-zero-to-mastery">ZTM: Complete React Developer in 2021</a></td>
     </tr>
@@ -78,6 +74,10 @@ If I haven't already completed it, it's on my list of courses to take next.
     <tr>
         <td></td>
         <td><a href="https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery">ZTM: Complete Machine Learning and Data Science</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><a href="https://www.algoexpert.io/">AlgoExpert/SystemsExpert</a></td>
     </tr>
 </table>
 
