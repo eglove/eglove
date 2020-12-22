@@ -13,7 +13,7 @@ If I haven't already completed it, it's on my list of courses to take next.
     </tr>
     <tr>
         <td>:white_check_mark:</td>
-        <td><a href="https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery">ZTM: Complete Web Developer in 2021</a></td>
+        <td><a href="https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery">ZTM: Complete Web Developer</a></td>
     </tr>
     <tr>
         <td>:white_check_mark:</td>
@@ -29,7 +29,7 @@ If I haven't already completed it, it's on my list of courses to take next.
     </tr>
     <tr>
         <td>:white_check_mark:</td>
-        <td><a href="https://academy.zerotomastery.io/p/complete-web-and-mobile-designer">ZTM: Complete Web & Mobile Designer in 2021</a></td>
+        <td><a href="https://academy.zerotomastery.io/p/complete-web-and-mobile-designer">ZTM: Complete Web & Mobile Designer</a></td>
     </tr>   
     <tr>
         <td>:white_check_mark:</td>
@@ -49,7 +49,7 @@ If I haven't already completed it, it's on my list of courses to take next.
     </tr>
     <tr>
         <td>:white_check_mark:</td>
-        <td><a href="https://academy.zerotomastery.io/p/complete-react-developer-redux-hooks-graphql-zero-to-mastery">ZTM: Complete React Developer in 2021</a></td>
+        <td><a href="https://academy.zerotomastery.io/p/complete-react-developer-redux-hooks-graphql-zero-to-mastery">ZTM: Complete React Developer</a></td>
     </tr>
     <tr>
         <td>:white_check_mark:</td>
@@ -73,6 +73,7 @@ If I haven't already completed it, it's on my list of courses to take next.
     </tr>
 </table>
 
-Sites I will be looking at in the future.
+Sites/courses I will be looking at in the future.
+* [ZTM: Complete SQL + Databases](https://academy.zerotomastery.io/p/complete-sql-database-bootcamp-zero-to-mastery)
 * [DataCamp](https://www.datacamp.com/)
 * [RealToughCandy](https://realtoughcandy.io/)
