@@ -48,10 +48,6 @@ If I haven't already completed it, it's on my list of courses to take next.
         <td><a href="https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms">ZTM: Data Structures + Algorithms</a></td>
     </tr>
     <tr>
-        <td></td>
-        <td><a href="https://www.algoexpert.io/">AlgoExpert/SystemsExpert</a><br/>(Start doing problems here, continue other courses.)</td>
-    </tr>
-    <tr>
         <td>:white_check_mark:</td>
         <td><a href="https://academy.zerotomastery.io/p/complete-react-developer-redux-hooks-graphql-zero-to-mastery">ZTM: Complete React Developer in 2021</a></td>
     </tr>
@@ -64,20 +60,16 @@ If I haven't already completed it, it's on my list of courses to take next.
         <td><a href="https://advancedreact.com/">WB: Fullstack Advanced React & GraphQL</a></td>
     </tr>
     <tr>
-        <td></td>
-        <td>ZTM: Complete React Native</td>
-    </tr>
-    <tr>
         <td>:white_check_mark:</td>
         <td><a href="https://academy.zerotomastery.io/p/the-complete-junior-to-senior-web-developer-roadmap">ZTM: Complete Junior to Senior Web Developer Roadmap</a></td>
     </tr>
     <tr>
         <td></td>
-        <td><a href="https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery">ZTM: Complete Python Developer in 2021</a></td>
+        <td><a href="https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery">ZTM: Complete Machine Learning and Data Science</a></td>
     </tr>
     <tr>
         <td></td>
-        <td><a href="https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery">ZTM: Complete Machine Learning and Data Science</a></td>
+        <td><a href="https://www.algoexpert.io/">AlgoExpert/SystemsExpert</a></td>
     </tr>
 </table>
 
