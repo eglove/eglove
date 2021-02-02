@@ -3,7 +3,7 @@
 My recommended list of courses to take, in order, to learn development.
 If I haven't already completed it, it's on my list of courses to take next.
 
-Last update: 1/16/2021
+Last update: February 01, 2021 
 
 :white_check_mark: - Courses I've completed and recommend.
 
