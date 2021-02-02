@@ -7,6 +7,8 @@ Last update: 1/16/2021
 
 :white_check_mark: - Courses I've completed and recommend.
 
+:white_large_square: - Currently In Progress
+
 <table>
     <tr>
         <td>:white_check_mark:</td>
@@ -65,12 +67,14 @@ Last update: 1/16/2021
         <td><a href="https://academy.zerotomastery.io/p/the-complete-junior-to-senior-web-developer-roadmap">ZTM: Complete Junior to Senior Web Developer Roadmap</a></td>
     </tr>
     <tr>
-        <td></td>
-        <td><a href="https://www.algoexpert.io/">AlgoExpert/SystemsExpert</a></td>
+        <td>:white_large_square:</td>
+        <td><a href="https://teamtreehouse.com/techdegree/php-development">TreeHouse PHP TechDegree</a></td>
     </tr>
 </table>
 
-Sites/courses I will be looking at in the future.
-* [ZTM: Complete SQL + Databases](https://academy.zerotomastery.io/p/complete-sql-database-bootcamp-zero-to-mastery)
-* [DataCamp](https://www.datacamp.com/)
+Courses I've Got An Eye On:
+* [ZTM: Complete React Native](https://academy.zerotomastery.io/p/learn-react-native)
+* [Grokking Data Science](https://www.educative.io/courses/grokking-data-science)
 * [RealToughCandy](https://realtoughcandy.io/)
+* [AlgoExpert/SystemsExpert](https://www.algoexpert.io/)
+* [Treehouse Web Design Track](https://teamtreehouse.com/tracks/web-design)
