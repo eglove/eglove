@@ -74,6 +74,7 @@ Last update: February 03, 2021
 
 Courses I've Got An Eye On:
 * [WB: FullStack Advanced React & GraphQL (2021 Update)](https://advancedreact.com/)
+* [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/)
 * [ZTM: Complete React Native](https://academy.zerotomastery.io/p/learn-react-native)
 * [Grokking Data Science](https://www.educative.io/courses/grokking-data-science)
 * [RealToughCandy](https://realtoughcandy.io/)
