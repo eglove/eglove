@@ -73,6 +73,7 @@ Last update: February 01, 2021
 </table>
 
 Courses I've Got An Eye On:
+* [WB: FullStack Advanced React & GraphQL (2021 Update)](https://advancedreact.com/)
 * [ZTM: Complete React Native](https://academy.zerotomastery.io/p/learn-react-native)
 * [Grokking Data Science](https://www.educative.io/courses/grokking-data-science)
 * [RealToughCandy](https://realtoughcandy.io/)
