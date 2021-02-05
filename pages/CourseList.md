@@ -68,7 +68,7 @@ Last update: February 04, 2021
     </tr>
     <tr>
         <td>:white_large_square:</td>
-        <td><a href="https://teamtreehouse.com/techdegree/php-development">TreeHouse PHP TechDegree</a></td>
+        <td><a href="https://teamtreehouse.com/techdegree/php-development">TreeHouse PHP TechDegree (143.5 hrs)</a></td>
     </tr>
 </table>
 
