@@ -1,9 +1,8 @@
 # Course List
 
 My recommended list of courses to take, in order, to learn development.
-If I haven't already completed it, it's on my list of courses to take next.
 
-Last update: February 04, 2021 
+Last update: February 04, 2021
 
 :white_check_mark: - Courses I've completed and recommend.
 
@@ -13,6 +12,10 @@ Last update: February 04, 2021
     <tr>
         <td>:white_check_mark:</td>
         <td><a href="https://academy.zerotomastery.io/p/learning-to-learn-efficient-learning-zero-to-mastery-blueprint">ZTM: Learning to Learn (5 hrs)</a></td>
+    </tr>
+    <tr>
+        <td>:white_large_square:</td>
+        <td><a href="https://teamtreehouse.com/techdegree/php-development">TreeHouse PHP TechDegree (143.5 hrs)</a></td>
     </tr>
     <tr>
         <td>:white_check_mark:</td>
@@ -66,13 +69,10 @@ Last update: February 04, 2021
         <td>:white_check_mark:</td>
         <td><a href="https://academy.zerotomastery.io/p/the-complete-junior-to-senior-web-developer-roadmap">ZTM: Complete Junior to Senior Web Developer Roadmap (36.5 hrs)</a></td>
     </tr>
-    <tr>
-        <td>:white_large_square:</td>
-        <td><a href="https://teamtreehouse.com/techdegree/php-development">TreeHouse PHP TechDegree (143.5 hrs)</a></td>
-    </tr>
 </table>
 
 Courses I've Got An Eye On:
+
 * [Postman: The Complete Guide - REST API Testing (13.5 hrs)](https://www.udemy.com/course/postman-the-complete-guide/)
 * [WB: FullStack Advanced React & GraphQL (2021 Update) (18 hrs)](https://advancedreact.com/)
 * [ZTM: Complete React Native](https://academy.zerotomastery.io/p/learn-react-native)
