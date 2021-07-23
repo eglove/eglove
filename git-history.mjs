@@ -16,7 +16,7 @@ while (start <= end) {
   await simpleGit().commit('Hmm...', {
     '--date': start.toISOString(),
   })
-  // await simpleGit().push()
+  await simpleGit().push()
   start.setDate(start.getDate() + 1);
 }
 
