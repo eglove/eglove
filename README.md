@@ -6,7 +6,9 @@
 
 # [EthanG.dev](https://www.ethang.dev/)
 
-### [Recommended courses for learning development.](https://www.ethang.dev/courses)
+* [Recommended courses for learning development.](https://www.ethang.dev/courses)
+* [Monorepo](https://github.com/eglove/ethang-one)
+* [Gists](https://gist.github.com/eglove)
 
 <hr>
 
