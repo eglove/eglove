@@ -10,4 +10,4 @@
 
 <hr>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=eglove&show_icons=true&theme=default&count_private=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eglove&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
