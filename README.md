@@ -7,7 +7,7 @@
 # [EthanG.dev](https://www.ethang.dev/)
 
 * [Recommended courses for learning development.](https://www.ethang.dev/courses)
-* [Monorepo](https://github.com/eglove/ethang-one)
+* [Monorepo](https://github.com/eglove/ethang-turborepo)
 * [Gists](https://gist.github.com/eglove)
 
 <hr>
