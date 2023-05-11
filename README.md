@@ -8,6 +8,7 @@
 
 * [Recommended courses for learning development.](https://www.ethang.dev/courses)
 * [Monorepo](https://github.com/eglove/ethang-turborepo)
-* [ESLint Config](https://github.com/eglove/ethang-turborepo/blob/main/packages/eslint-config-ethang)
-* [StyleLint Config](https://github.com/eglove/ethang-turborepo/blob/main/packages/stylelint-config-ethang)
-* [Gists](https://gist.github.com/eglove)
+* [ESLint Config](https://github.com/eglove/eslint-config-ethang)
+* [StyleLint Config](https://github.com/eglove/stylelint-config-ethang)
+* [@ethang/hooks](https://github.com/eglove/hooks)
+* [@ethang/use-form](https://github.com/eglove/use-form)
