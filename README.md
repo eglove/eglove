@@ -7,8 +7,9 @@
 # [EthanG.dev](https://www.ethang.dev/)
 
 * [Recommended courses for learning development.](https://www.ethang.dev/courses)
-* [Monorepo](https://github.com/eglove/ethang-turborepo)
+* [Blog](https://github.com/eglove/blog)
 * [ESLint Config](https://github.com/eglove/eslint-config-ethang)
-* [StyleLint Config](https://github.com/eglove/stylelint-config-ethang)
+* [@ethang/fetch](https://github.com/eglove/fetch)
 * [@ethang/hooks](https://github.com/eglove/hooks)
 * [@ethang/use-form](https://github.com/eglove/use-form)
+* [scripts](https://github.com/eglove/scripts)
