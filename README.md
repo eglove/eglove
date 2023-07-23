@@ -7,7 +7,6 @@
 # [EthanG.dev](https://www.ethang.dev/)
 
 * [Recommended courses for learning development.](https://www.ethang.dev/courses)
-* [Blog](https://github.com/eglove/blog)
 * [ESLint Config](https://github.com/eglove/eslint-config-ethang)
 * [@ethang/fetch](https://github.com/eglove/fetch)
 * [@ethang/hooks](https://github.com/eglove/hooks)
