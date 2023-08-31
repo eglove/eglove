@@ -12,3 +12,5 @@
 * [@ethang/hooks](https://github.com/eglove/hooks)
 * [@ethang/use-form](https://github.com/eglove/use-form)
 * [scripts](https://github.com/eglove/scripts)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eglove&layout=compact)
