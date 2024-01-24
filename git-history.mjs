@@ -9,23 +9,16 @@ const input = prompter('Enter start date (Jan 26, 2023): ');
 const start = new Date(input);
 const end = new Date();
 
-const createCommit = async (start) => {
+while (start <= end) {
+  console.log(`Commiting for ${start.toLocaleString()}.`)
   fs.writeFileSync('fake-history.txt', start.toISOString());
   await simpleGit().add('.');
   await simpleGit().commit('Hmm...', {
     '--date': start.toISOString(),
   })
-  await simpleGit().push()
-  console.log(`Commited for ${start.toLocaleString()}.`)
-}
-
-const promises = [];
-
-while (start <= end) {
-  promises.push(createCommit(start));
   start.setDate(start.getDate() + 1);
 }
 
-await Promise.allSettled(promises);
+await simpleGit().push()
 
 process.exit();
