@@ -6,12 +6,6 @@
 
 # [EthanG.dev](https://www.ethang.dev/)
 
-* [Recommended courses for learning development.](https://introspect.dev/list/e7f779a0-838f-48d1-9aa7-3b3b5c534b8a)
-* [ESLint Config](https://github.com/eglove/eslint-config-ethang)
-* [@ethang/fetch](https://github.com/eglove/fetch)
-* [@ethang/hooks](https://github.com/eglove/hooks)
-* [@ethang/use-form](https://github.com/eglove/use-form)
-* [@ethang/util](https://github.com/eglove/util)
-* [scripts](https://github.com/eglove/scripts)
+* [Recommended courses for learning development.](https://ethang.dev/courses/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eglove&layout=compact)
