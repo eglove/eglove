@@ -42,3 +42,4 @@ await git.push();
 
 console.log(`${found} commits found`);
 console.log(`${missing} commits created`);
+process.exit();
