@@ -25,8 +25,8 @@ while (start <= end) {
     missing += 1;
     console.log(`Commiting for ${start.toLocaleString()}.`);
     fs.writeFileSync("fake-history.txt", start.toISOString());
-    await simpleGit().add(".");
-    await simpleGit().commit("Hmm...", {
+    await git.add(".");
+    await git.commit("Hmm...", {
       "--date": start.toISOString(),
     });
   }
@@ -34,7 +34,7 @@ while (start <= end) {
   start.setDate(start.getDate() + 1);
 }
 
-await simpleGit().push();
+await git.push();
 
 console.log(`${found} commits found`);
 console.log(`${missing} commits created`);
