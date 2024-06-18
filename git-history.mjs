@@ -1,8 +1,10 @@
 import { simpleGit } from "simple-git";
 import fs from "node:fs";
+import path from "node:path";
 
+const directory = path.dirname(import.meta.url).split("///")[1];
 const git = simpleGit({
-  baseDir: import.meta.dirname,
+  baseDir: directory,
 });
 const log = await git.log();
 
