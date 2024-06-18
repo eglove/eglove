@@ -1,7 +1,9 @@
 import { simpleGit } from "simple-git";
 import fs from "node:fs";
 
-const git = simpleGit();
+const git = simpleGit({
+  baseDir: import.meta.dirname,
+});
 const log = await git.log();
 
 const start = new Date();
