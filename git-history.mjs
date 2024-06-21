@@ -1,8 +1,12 @@
 import { simpleGit } from "simple-git";
 import fs from "node:fs";
 
+const dir = "C:\\Users\\hello\\Projects\\ethang\\eglove";
+
+process.chdir(dir);
+
 const git = simpleGit({
-  baseDir: "C:\\Users\\hello\\Projects\\ethang\\eglove",
+  baseDir: dir,
 });
 const log = await git.log();
 
