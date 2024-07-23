@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "luxon": "^3.4.4",
     "prettier": "^3.3.2",
     "simple-git": "^3.19.1"
+  },
+  "devDependencies": {
+    "@types/luxon": "^3.4.2"
   }
 }

@@ -8,12 +8,19 @@ importers:
 
   .:
     dependencies:
+      luxon:
+        specifier: ^3.4.4
+        version: 3.4.4
       prettier:
         specifier: ^3.3.2
         version: 3.3.2
       simple-git:
         specifier: ^3.19.1
         version: 3.19.1
+    devDependencies:
+      '@types/luxon':
+        specifier: ^3.4.2
+        version: 3.4.2
 
 packages:
 
@@ -23,6 +30,9 @@ packages:
   '@kwsites/promise-deferred@1.1.1':
     resolution: {integrity: sha512-GaHYm+c0O9MjZRu0ongGBRbinu8gVAMd2UZjji6jVmqKtZluZnptXGWhz1E8j8D2HJ3f/yMxKAUC0b+57wncIw==}
 
+  '@types/luxon@3.4.2':
+    resolution: {integrity: sha512-TifLZlFudklWlMBfhubvgqTXRzLDI5pCbGa4P8a3wPyUQSW+1xQ5eDsreP9DWHX3tjq1ke96uYG/nwundroWcA==}
+
   debug@4.3.4:
     resolution: {integrity: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==}
     engines: {node: '>=6.0'}
@@ -31,6 +41,10 @@ packages:
     peerDependenciesMeta:
       supports-color:
         optional: true
+
+  luxon@3.4.4:
+    resolution: {integrity: sha512-zobTr7akeGHnv7eBOXcRgMeCP6+uyYsczwmeRCauvpvaAltgNyTbLH/+VaEAPUeWBT+1GuNmz4wC/6jtQzbbVA==}
+    engines: {node: '>=12'}
 
   ms@2.1.2:
     resolution: {integrity: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==}
@@ -53,9 +67,13 @@ snapshots:
 
   '@kwsites/promise-deferred@1.1.1': {}
 
+  '@types/luxon@3.4.2': {}
+
   debug@4.3.4:
     dependencies:
       ms: 2.1.2
+
+  luxon@3.4.4: {}
 
   ms@2.1.2: {}
 
