@@ -18,6 +18,8 @@ const end = new Date();
 let found = 0;
 let missing = 0;
 
+console.log(log.latest);
+
 while (start <= end) {
   const foundCommit = log.all.find((item) => {
     return (
