@@ -1,41 +1,38 @@
 import { simpleGit } from "simple-git";
 import { DateTime } from "luxon";
 import { writeFileSync } from "node:fs";
-import { execSync } from "node:child_process";
 
 const dir = "C:\\Users\\hello\\Projects\\ethang\\eglove";
+const UTC = "UTC";
+const dayStart = { hour: 0, minute: 0, second: 0, millisecond: 0 };
 
 process.chdir(dir);
-
-let start = DateTime.now()
-  .minus({ year: 1 })
-  .set({ hour: 0, minute: 0, second: 0, millisecond: 0 });
 
 const git = simpleGit({
   baseDir: dir,
 });
 
-let isDone = false;
+const logs = (await git.log()).all.map((log) => {
+  return DateTime.fromISO(log.date).setZone(UTC).set(dayStart).toISO();
+});
 
-while (isDone === false) {
-  const end = start.plus({ day: 1 });
-  const result = await execSync(
-    `git log --after="${start.toISO()}" --before="${end.toISO()}"`,
-  ).toString();
+const startDate = DateTime.now().setZone(UTC).minus({ years: 1 }).set(dayStart);
+const today = DateTime.now().setZone(UTC).set(dayStart);
 
-  if (result.length <= 0) {
-    console.log(`Commiting for ${start.toLocaleString()}.`);
-    writeFileSync("fake-history.txt", start.toISO());
+for (
+  let currentDate = startDate;
+  currentDate <= today;
+  currentDate = currentDate.plus({ day: 1 })
+) {
+  const dateString = currentDate.toISO();
+
+  if (!logs.includes(dateString)) {
+    console.log(`Commiting for ${dateString}.`);
+    writeFileSync("fake-history.txt", dateString);
     await git.add(".");
     await git.commit("Hmm...", {
-      "--date": start.toISO(),
+      "--date": dateString,
     });
-  }
-
-  start = start.plus({ day: 1 });
-
-  if (DateTime.now().diff(start, "day").values.days < 1) {
-    isDone = true;
   }
 }
 
