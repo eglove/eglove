@@ -1,6 +1,6 @@
 import { simpleGit } from "simple-git";
 import { DateTime } from "luxon";
-import { writeFile } from "node:fs";
+import { writeFileSync } from "node:fs";
 import { execSync } from "node:child_process";
 
 const dir = "C:\\Users\\hello\\Projects\\ethang\\eglove";
@@ -25,7 +25,7 @@ while (isDone === false) {
 
   if (result.length <= 0) {
     console.log(`Commiting for ${start.toLocaleString()}.`);
-    await writeFile("fake-history.txt", start.toISO());
+    writeFileSync("fake-history.txt", start.toISO());
     await git.add(".");
     await git.commit("Hmm...", {
       "--date": start.toISO(),
