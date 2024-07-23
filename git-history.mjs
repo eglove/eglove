@@ -1,26 +1,29 @@
 import { simpleGit } from "simple-git";
 import { DateTime } from "luxon";
 import { writeFile } from "node:fs";
-import { exec } from "node:child_process";
+import { execSync } from "node:child_process";
 
 const dir = "C:\\Users\\hello\\Projects\\ethang\\eglove";
-const gitFormat = "yyyy-MM-dd HH:mm";
 
 process.chdir(dir);
 
-let start = DateTime.now().minus({ year: 1 });
-const end = DateTime.now();
+let start = DateTime.now()
+  .minus({ year: 1 })
+  .set({ hour: 0, minute: 0, second: 0, millisecond: 0 });
 
 const git = simpleGit({
   baseDir: dir,
 });
 
-while (end.diff(start, "day").values.days > 0) {
-  const result = await exec(
-    `git log --after="${start.toISO()}" --before="${end.toISO()}"`,
-  );
+let isDone = false;
 
-  if (result.toString() === "") {
+while (isDone === false) {
+  const end = start.plus({ day: 1 });
+  const result = await execSync(
+    `git log --after="${start.toISO()}" --before="${end.toISO()}"`,
+  ).toString();
+
+  if (result.length <= 0) {
     console.log(`Commiting for ${start.toLocaleString()}.`);
     await writeFile("fake-history.txt", start.toISO());
     await git.add(".");
@@ -30,6 +33,10 @@ while (end.diff(start, "day").values.days > 0) {
   }
 
   start = start.plus({ day: 1 });
+
+  if (DateTime.now().diff(start, "day").values.days < 1) {
+    isDone = true;
+  }
 }
 
 await git.push();
