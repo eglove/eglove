@@ -2,7 +2,7 @@ import { simpleGit } from "simple-git";
 import { DateTime } from "luxon";
 import { writeFileSync } from "node:fs";
 
-const dir = "C:\\Users\\hello\\Projects\\ethang\\eglove";
+const dir = "C:\\Users\\glove\\projects\\eglove";
 const UTC = "UTC";
 const dayStart = { hour: 0, minute: 0, second: 0, millisecond: 0 };
 

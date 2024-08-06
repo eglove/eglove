@@ -7,5 +7,3 @@
 # [EthanG.dev](https://www.ethang.dev/)
 
 * [Recommended courses for learning development.](https://ethang.dev/courses/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eglove&layout=compact)
