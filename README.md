@@ -1,4 +1,11 @@
-<img src="https://i.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.webp" alt="Hi!">
+<div align="center">
+  <a href="https://commit-history.com/eglove">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/eglove?theme=dark" />
+      <img alt="eglove's commit history" src="https://commit-history.com/embed/eglove" />
+    </picture>
+  </a>
+</div>
 
 :star2: **Full Stack Developer** :star2: **Systems Thinker** :star2: **Stoic** :star2: **Code Optimizer** :star2:
 
